@@ -52,5 +52,13 @@
                 </f:content>
             </f:SimpleForm>
         </content>
+
+        <footer>
+            <Bar id="app_bar_footer">
+                <contentRight>
+                    <Button id="app_save_button" text="{i18n>save}" icon="sap-icon://save" type="Accept" press="onSavePressed" />
+                </contentRight>
+            </Bar>
+        </footer>
     </Page>
 </mvc:View>

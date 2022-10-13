@@ -1,10 +1,34 @@
 {
-    "customerid": "1000011",
-    "firstname": "Mia",
-    "lastname": "Musterfrau",
-    "title": "Dr.",
-    "gender": "female",
-    "email": "max.musterfrau@clouddna.at",
-    "phone": "+43676123123",
-    "website": "www.clouddna.at"
+    "customers": [
+        {
+            "customerid": "1000011",
+            "firstname": "Mia",
+            "lastname": "Musterfrau",
+            "title": "Dr.",
+            "gender": "female",
+            "email": "mia.musterfrau@clouddna.at",
+            "phone": "+43676123123",
+            "website": "www.clouddna.at"
+        },
+        {
+            "customerid": "1000012",
+            "firstname": "Max",
+            "lastname": "Mustermann",
+            "title": "",
+            "gender": "male",
+            "email": "max.mustermann@clouddna.at",
+            "phone": "+43676123123",
+            "website": "www.e-steiermark.com"
+        },
+        {
+            "customerid": "1000013",
+            "firstname": "Marlies",
+            "lastname": "Muster",
+            "title": "MSc",
+            "gender": "female",
+            "email": "marlies.muster@clouddna.at",
+            "phone": "+43676123123",
+            "website": "www.orf.at"
+        }
+    ]
 }
